@@ -1,12 +1,11 @@
-note to self: this is incomplete, and there are missing labels on the PCB.  
-
 # Calcifer Devboard
 Calcifer Devboard is a funny take on the RP2040 Devboard. It contains all of the basic components of what a devboard usually has like SRAM, processors, USB controllers, and breakout pins. The interesting twist on this devboard is that it is shaped like Calcifer, a character from Howl's Moving Castle. 
 
-# User Guide
-Be detailed
-
 # Features
+- USB-C Port  
+- 12MHz Crystal Oscillator  
+- 16mb Flash Storage
+- 29 I/O Pins  
 
 # Why did I make it
 If you don't know the story behind Howl's Moving Castle, Calcifer is a fire demon that is trapped inside Howl's Castle and he powers and controls all of the magical things that the castle does. To me, this seemed parallel to what a devboard does in any electronics project, since a devboard is basically the heart and soul and would control all of the other components around it. 
