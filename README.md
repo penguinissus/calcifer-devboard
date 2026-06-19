@@ -1,5 +1,6 @@
 # Calcifer Devboard
-Calcifer Devboard is a funny take on the RP2040 Devboard. It contains all of the basic components of what a devboard usually has like SRAM, processors, USB controllers, and breakout pins. The interesting twist on this devboard is that it is shaped like Calcifer, a character from Howl's Moving Castle. 
+Calcifer Devboard is a funny take on the RP2040 Devboard. It contains all of the basic components of what a devboard usually has like SRAM, processors, USB controllers, and breakout pins. The interesting twist on this devboard is that it is shaped like Calcifer, a character from Howl's Moving Castle.  
+![Zine](Calcifer-Devboard-Zine-V3.png)  
 
 # Features
 - USB-C Port  
