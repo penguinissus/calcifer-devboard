@@ -16,9 +16,9 @@ This schematic diagram looks the exact same as the guide from kaipereira.
 This is what my devboard looked like in the PCB editor. You can see that it has the outline and silkscreen of calcifer on it.  
 ![PCB Editor View](image-5.png)  
 This is what the front of the PCB should look like when it is built properly. The frontside only shows a silkscreen of calcifer and is not obstructed by any components.  
-![3D Model Front View](image-6.png)  
+![3D Model Front View](image-8.png)  
 This is what the back of the PCB should look like. All of the components are on this side and all of the pins are clearly labeled. There is also a label saying this is made by me.  
-![3D Model Back View](image-7.png)  
+![3D Model Back View](image-9.png)  
 
 # Resource
 This project is all thanks to [kaipereira's guide](https://github.com/KaiPereira/build-a-devboard/blob/master/README.md) on designing an RP2040 devboard. 
