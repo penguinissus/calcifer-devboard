@@ -1,6 +1,6 @@
 # Calcifer Devboard
 Calcifer Devboard is a funny take on the RP2040 Devboard. It contains all of the basic components of what a devboard usually has like SRAM, processors, USB controllers, and breakout pins. The interesting twist on this devboard is that it is shaped like Calcifer, a character from Howl's Moving Castle.  
-![Zine](IMAGES/Calcifer-Devboard-Zine-V3.png)  
+![Zine](IMAGES/Calcifer-Devboard-Zine-V3.png)   
 
 # Features
 - USB-C Port  
@@ -23,3 +23,6 @@ This is what the back of the PCB should look like. All of the components are on 
 
 # Resource
 This project is all thanks to [kaipereira's guide](https://github.com/KaiPereira/build-a-devboard/blob/master/README.md) on designing an RP2040 devboard. 
+
+# How to use
+This is just a devboard so there isn't really a step-by-step assembly or firmware isntructions. 
